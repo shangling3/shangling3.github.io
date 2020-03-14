@@ -28,7 +28,7 @@ Windows Registry Editor Version 5.00
 具体方法：打开记事本，把这段代码粘贴进去，保存为后缀为reg 的文件。双击运行即可。
 
 贴一大小写锁定键转Ctrl键的解释图。
-![](/img/2020-02-14/1.jpg)
+![](https://imgchr.com/i/8ldWrV)
 
 这里的原理基本是一致的。
 也可以查看注册表编辑器是否修改成功。
@@ -36,7 +36,7 @@ Windows Registry Editor Version 5.00
 1. Windows键 + R，打开运行对话框，输入regedit。
 2. 一次打开 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout 
 
-![](/img/2020-02-14/2.jpg)
+![](https://imgchr.com/i/8ldRK0)
 
 完成之后，重启即可生效。
 
